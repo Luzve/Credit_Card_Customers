@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Luzve/Credit_Card_Customers/raw/main/assets/110582561/d8b05812-e0d3-43d7-bc0a-52f7be8ab384.png" alt="">
+  <img src=![image](https://github.com/Luzve/Credit_Card_Customers/assets/110582561/151908b9-8b8b-4cd1-9642-d658fec7109c)
+" alt="">
 </p>
 
 ## Información del Dataset
