@@ -1,7 +1,7 @@
 # Credit_Card_Customers
-
+<p align="center">
 ![image](https://github.com/Luzve/Credit_Card_Customers/assets/110582561/2230e3f0-5f09-43c1-84f3-e73591eefd98)
-
+</p>
 ## Información del Dataset
 
 Este repositorio contiene el dataset de clientes bancarios, el cual proporciona 
