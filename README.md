@@ -1,12 +1,10 @@
-<p align="center">
-  <h1 style="text-align: center;">Credit_Card_Customers</h1>
-</p>
+# Credit_Card_Customers
 
 <p align="center">
-  <img src="![image](https://github.com/Luzve/Credit_Card_Customers/assets/110582561/1076e3f2-682c-4264-8647-d2b06cae4453)" alt="">
+  <img src="https://github.com/Luzve/Credit_Card_Customers/raw/main/assets/110582561/d8b05812-e0d3-43d7-bc0a-52f7be8ab384.png" alt="">
 </p>
-[![image](https://github.com/Luzve/Credit_Card_Customers/assets/110582561/6603704e-795e-48b6-89ee-cd912ef6c25b)
-](https://www.medialogic.com/wp-content/uploads/2020/09/creditcard-ratings-during-covid-9142020.jpg)
+
+
 ## Información del Dataset
 
 Este repositorio contiene el dataset de clientes bancarios, el cual proporciona 
