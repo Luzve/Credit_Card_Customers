@@ -1,7 +1,7 @@
 # Credit_Card_Customers
 
 <p align="center">
-  ![image](https://github.com/Luzve/Credit_Card_Customers/assets/110582561/0ea419f9-76fa-4f11-822f-38cb233283c8)
+ (https://github.com/Luzve/Credit_Card_Customers/assets/110582561/0ea419f9-76fa-4f11-822f-38cb233283c8)
 </p>
 
 
