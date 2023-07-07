@@ -1,9 +1,6 @@
 # Credit_Card_Customers
 
-<p align="center">
- (https://github.com/Luzve/Credit_Card_Customers/assets/110582561/0ea419f9-76fa-4f11-822f-38cb233283c8)
-</p>
-
+https://www.medialogic.com/wp-content/uploads/2020/09/creditcard-ratings-during-covid-9142020.jpg
 
 ## Información del Dataset
 
