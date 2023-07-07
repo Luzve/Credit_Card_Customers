@@ -1,6 +1,8 @@
-# Credit_Card_Customers
 <p align="center">
-![image](https://github.com/Luzve/Credit_Card_Customers/assets/110582561/d8b05812-e0d3-43d7-bc0a-52f7be8ab384)
+# Credit_Card_Customers
+</p>
+<p align="center">
+  <img src="https://github.com/Luzve/Credit_Card_Customers/assets/110582561/d8b05812-e0d3-43d7-bc0a-52f7be8ab384" alt="">
 </p>
 ## Información del Dataset
 
